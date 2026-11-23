@@ -66,7 +66,7 @@
 		inset: 2pt,
 		[
 			Luck Poyet \
-			Élie Fabre
+			Elie Fabre
 		],[
 			#align(right)[
 				
