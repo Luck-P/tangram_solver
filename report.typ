@@ -78,7 +78,8 @@
 		
 	)
 ]
-#v(1fr)
+#pagebreak()
+
 #scale(130%, reflow: true)[
 	#outline(
 		title: [Table des Matières],
